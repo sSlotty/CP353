@@ -1,11 +1,21 @@
-from flask import Flask, url_for
+from flask import Flask, url_for, render_template
 from markupsafe import escape
+import feedparser
 
 app = Flask(__name__)
 
-@app.route('/')
-def hello_world():
-    return 'Hello World!'
+ITUNE_FEEDS = {'new-release': 'https://rss.itunes.apple.com/api/v1/us/apple-music/new-releases/all/10/explicit.rss',
+                'top-songs':'https://rss.itunes.apple.com/api/v1/us/apple-music/top-songs/all/10/explicit.rss',
+                'top-albums':'https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/all/10/explicit.rss',
+                'coming-soon':'https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss'
+               }
+
+@app.route("/<feed_type>")
+def get_feed(feed_type='new-release'):
+    feed = feedparser.parse(ITUNE_FEEDS[feed_type])
+    return render_template("home.html",items=feed['entries'])
+
+
 
 @app.route('/user/<username>')
 def profile(username):
