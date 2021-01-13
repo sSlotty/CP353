@@ -9,7 +9,7 @@ def hello_world():
 
 @app.route('/user/<username>')
 def profile(username):
-    return '{}\'s profile'.format(escape(username*5))
+    return '{}\'s profile'.format(escape(username))
 
 if __name__ == '__main__':
     app.run(use_reloader=True)
