@@ -8,15 +8,14 @@
 
 <body>
 
-    <h1>Coming Soon to Apple Music</h1>
-
+    <h1> {{items['feed']['title']}} to Apple Music</h1>
     <table>
         <tr>
             <th>Title</th>
             <th>Description</th>
             <th>Link</th>
         </tr>
-        {%for item in items %}
+        {%for item in items['entries'] %}
         <tr>
             <td>{{item.title}}</td>
             <td>{{item.description}}</td>

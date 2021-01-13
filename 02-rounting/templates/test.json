@@ -1,0 +1,506 @@
+{
+    "bozo": false,
+    "encoding": "utf-8",
+    "entries": [{
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/one-night-in-miami-original-motion-picture-soundtrack/1543491172?app=music",
+        "link": "https://music.apple.com/us/album/one-night-in-miami-original-motion-picture-soundtrack/1543491172?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/one-night-in-miami-original-motion-picture-soundtrack/1543491172?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 15 Jan 2021 00:00:00 +0000",
+        "published_parsed": [2021, 1, 15, 0, 0, 0, 4, 15, 0],
+        "summary": "One Night In Miami... (Original Motion Picture Soundtrack)",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "One Night In Miami... (Original Motion Picture Soundtrack)"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/various-artists/36270?app=music",
+            "term": "Various Artists"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Soundtrack"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }],
+        "title": "One Night In Miami... (Original Motion Picture Soundtrack) - Various Artists",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "One Night In Miami... (Original Motion Picture Soundtrack) - Various Artists"
+        }
+    }, {
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/where-the-gloom-becomes-sound/1536495020?app=music",
+        "link": "https://music.apple.com/us/album/where-the-gloom-becomes-sound/1536495020?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/where-the-gloom-becomes-sound/1536495020?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 29 Jan 2021 00:00:00 +0000",
+        "published_parsed": [2021, 1, 29, 0, 0, 0, 4, 29, 0],
+        "summary": "Where the Gloom Becomes Sound",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "Where the Gloom Becomes Sound"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/tribulation/212623096?app=music",
+            "term": "Tribulation"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Metal"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Rock"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Death Metal/Black Metal"
+        }],
+        "title": "Where the Gloom Becomes Sound - Tribulation",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "Where the Gloom Becomes Sound - Tribulation"
+        }
+    }, {
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/tyron/1538562860?app=music",
+        "link": "https://music.apple.com/us/album/tyron/1538562860?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/tyron/1538562860?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 5 Feb 2021 00:00:00 +0000",
+        "published_parsed": [2021, 2, 5, 0, 0, 0, 4, 36, 0],
+        "summary": "TYRON",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "TYRON"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/slowthai/1086928748?app=music",
+            "term": "slowthai"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Hip-Hop/Rap"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }],
+        "title": "TYRON - slowthai",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "TYRON - slowthai"
+        }
+    }, {
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/when-you-see-yourself/1547474568?app=music",
+        "link": "https://music.apple.com/us/album/when-you-see-yourself/1547474568?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/when-you-see-yourself/1547474568?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 5 Mar 2021 00:00:00 +0000",
+        "published_parsed": [2021, 3, 5, 0, 0, 0, 4, 64, 0],
+        "summary": "When You See Yourself",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "When You See Yourself"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/kings-of-leon/1883403?app=music",
+            "term": "Kings of Leon"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Alternative"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }],
+        "title": "When You See Yourself - Kings of Leon",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "When You See Yourself - Kings of Leon"
+        }
+    }, {
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/collapsed-in-sunbeams/1534718812?app=music",
+        "link": "https://music.apple.com/us/album/collapsed-in-sunbeams/1534718812?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/collapsed-in-sunbeams/1534718812?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 29 Jan 2021 00:00:00 +0000",
+        "published_parsed": [2021, 1, 29, 0, 0, 0, 4, 29, 0],
+        "summary": "Collapsed In Sunbeams",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "Collapsed In Sunbeams"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/arlo-parks/1291875084?app=music",
+            "term": "Arlo Parks"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "R&B/Soul"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Alternative"
+        }],
+        "title": "Collapsed In Sunbeams - Arlo Parks",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "Collapsed In Sunbeams - Arlo Parks"
+        }
+    }, {
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/subconsciously/1540643471?app=music",
+        "link": "https://music.apple.com/us/album/subconsciously/1540643471?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/subconsciously/1540643471?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 5 Feb 2021 00:00:00 +0000",
+        "published_parsed": [2021, 2, 5, 0, 0, 0, 4, 36, 0],
+        "summary": "Subconsciously",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "Subconsciously"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/black-coffee/306140760?app=music",
+            "term": "Black Coffee"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Dance"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }],
+        "title": "Subconsciously - Black Coffee",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "Subconsciously - Black Coffee"
+        }
+    }, {
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/isles/1531704818?app=music",
+        "link": "https://music.apple.com/us/album/isles/1531704818?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/isles/1531704818?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 22 Jan 2021 00:00:00 +0000",
+        "published_parsed": [2021, 1, 22, 0, 0, 0, 4, 22, 0],
+        "summary": "Isles",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "Isles"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/bicep/406148755?app=music",
+            "term": "Bicep"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Electronic"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }],
+        "title": "Isles - Bicep",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "Isles - Bicep"
+        }
+    }, {
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/medicine-at-midnight/1538671506?app=music",
+        "link": "https://music.apple.com/us/album/medicine-at-midnight/1538671506?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/medicine-at-midnight/1538671506?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 5 Feb 2021 00:00:00 +0000",
+        "published_parsed": [2021, 2, 5, 0, 0, 0, 4, 36, 0],
+        "summary": "Medicine at Midnight",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "Medicine at Midnight"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/foo-fighters/6906197?app=music",
+            "term": "Foo Fighters"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Rock"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }],
+        "title": "Medicine at Midnight - Foo Fighters",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "Medicine at Midnight - Foo Fighters"
+        }
+    }, {
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/who-am-i/1534665229?app=music",
+        "link": "https://music.apple.com/us/album/who-am-i/1534665229?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/who-am-i/1534665229?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 12 Feb 2021 00:00:00 +0000",
+        "published_parsed": [2021, 2, 12, 0, 0, 0, 4, 43, 0],
+        "summary": "Who Am I?",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "Who Am I?"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/pale-waves/1204484734?app=music",
+            "term": "Pale Waves"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Alternative"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }],
+        "title": "Who Am I? - Pale Waves",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "Who Am I? - Pale Waves"
+        }
+    }, {
+        "guidislink": false,
+        "id": "https://music.apple.com/us/album/youve-got-the-whole-night-to-go-ep/1541034661?app=music",
+        "link": "https://music.apple.com/us/album/youve-got-the-whole-night-to-go-ep/1541034661?app=music",
+        "links": [{
+            "href": "https://music.apple.com/us/album/youve-got-the-whole-night-to-go-ep/1541034661?app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "published": "Fri, 22 Jan 2021 00:00:00 +0000",
+        "published_parsed": [2021, 1, 22, 0, 0, 0, 4, 22, 0],
+        "summary": "You've Got the Whole Night to Go - EP",
+        "summary_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "You've Got the Whole Night to Go - EP"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": "https://music.apple.com/us/artist/logic1000/1461794167?app=music",
+            "term": "Logic1000"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "album"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Dance"
+        }, {
+            "label": null,
+            "scheme": null,
+            "term": "Music"
+        }],
+        "title": "You've Got the Whole Night to Go - EP - Logic1000",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "You've Got the Whole Night to Go - EP - Logic1000"
+        }
+    }],
+    "etag": "W/\"6511cfec4402038cdb86e0e9d8d71899\"",
+    "feed": {
+        "link": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=1396220241&app=music",
+        "links": [{
+            "href": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "rel": "alternate",
+            "type": "text/html"
+        }, {
+            "href": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "rel": "self",
+            "type": "application/rss+xml"
+        }, {
+            "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=1396220241&app=music",
+            "rel": "alternate",
+            "type": "text/html"
+        }],
+        "rights": "Copyright \u00a9 2018 Apple Inc. All rights reserved.",
+        "rights_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "Copyright \u00a9 2018 Apple Inc. All rights reserved."
+        },
+        "subtitle": "iTunes Store : Coming Soon",
+        "subtitle_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/html",
+            "value": "iTunes Store : Coming Soon"
+        },
+        "tags": [{
+            "label": null,
+            "scheme": null,
+            "term": "iTunes Store"
+        }],
+        "title": "Coming Soon",
+        "title_detail": {
+            "base": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+            "language": null,
+            "type": "text/plain",
+            "value": "Coming Soon"
+        },
+        "updated": "Tue, 12 Jan 2021 01:49:47 -0800",
+        "updated_parsed": [2021, 1, 12, 9, 49, 47, 1, 12, 0]
+    },
+    "headers": {
+        "cache-control": "private, must-revalidate, max-age=0",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "1442",
+        "content-type": "application/rss+xml; charset=utf-8",
+        "date": "Wed, 13 Jan 2021 05:01:32 GMT",
+        "etag": "W/\"6511cfec4402038cdb86e0e9d8d71899\"",
+        "server": "nginx/1.18.0",
+        "status": "200 OK",
+        "strict-transport-security": "max-age=0",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-request-id": "6d544168-c964-4271-9e99-73d581b68f79",
+        "x-runtime": "0.176308",
+        "x-xss-protection": "1; mode=block"
+    },
+    "href": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.rss",
+    "namespaces": {
+        "": "http://www.w3.org/2005/Atom"
+    },
+    "status": 200,
+    "version": "rss20"
+}
