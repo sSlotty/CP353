@@ -12,10 +12,29 @@
 
 <body>
 
+    <div class="container mt-5">
+        <form method="POST">
+            <!-- Email input -->
+            <div class="form-outline mb-4">
+                <input type="email" id="height" name="height" class="form-control" />
+                <label class="form-label" for="height">Height</label>
+            </div>
+    
+            <!-- Password input -->
+            <div class="form-outline mb-4">
+                <input type="password" id="weight" class="form-control" name="weight"/>
+                <label class="form-label" for="weight">Weight</label>
+            </div>
+    
+            <!-- Submit button -->
+            <button type="submit" class="btn btn-primary btn-block">Submit</button>
+        </form>
+    </div>
+    <hr>
     <h1>Your BMI {{data}}</h1>
-    
 
-    
+
+
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.1.0/mdb.min.js"></script>
 </body>
 
