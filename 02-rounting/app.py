@@ -21,5 +21,7 @@ def get_feed(feed_type='new-release'):
 def profile(username):
     return '{}\'s profile'.format(escape(username))
 
+
+
 if __name__ == '__main__':
-    app.run(use_reloader=True)
+    app.run(debug=True,use_reloader=True)
