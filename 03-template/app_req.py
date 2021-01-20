@@ -13,13 +13,18 @@ def user():
     data = request.json
     return jsonify(data)
 
-@app.route('/bmi', methods=['GET'])
+@app.route('/bmi', methods=['GET','POST'])
 def BMI():
-    weight = request.args.get('weight',default = 0, type = int)
-    height = request.args.get('height', default=0, type=int)
+    BMI = ''
+    if request.method == 'GET':
+        weight = request.args.get('weight',default = 0, type = int)
+        height = request.args.get('height', default=0, type=int)
+    elif request.method == 'POST':
+        weight = float(request.form.get('weight'))
+        height = float(request.form.get('height'))
     
     BMI = calc_bmi(weight, height)
-    return render_template('bmi.html', data = BMI)
+    return render_template('bmi.html', data=BMI)
 
 def calc_bmi(weight, height):
     return round((weight / ((height / 100) ** 2)), 2)
