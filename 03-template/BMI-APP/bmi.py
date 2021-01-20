@@ -6,13 +6,32 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET','POST'])
 def BMI():
-    BMI = ''
+    BMI = 0
     if request.method == 'POST':
         weight = float(request.form.get('weight'))
         height = float(request.form.get('height'))
         BMI = calc_bmi(weight, height)
-
-    return render_template('bmi.html', data=BMI)
+    
+    if BMI > 40:
+        bmi_text = "Very severely obese"
+    elif BMI > 35:
+        bmi_text = "Severely obese"
+    elif BMI > 30:
+        bmi_text = "Moderately obese"
+    elif BMI > 25:
+        bmi_text = "Overweight"
+    elif BMI > 18.5:
+        bmi_text = "Normal (healthy weight)"
+    elif BMI > 16:
+        bmi_text = "Underweight"
+    elif BMI > 15:
+        bmi_text = "Severely underweight"
+    else:
+        bmi_text = "Very severely underweight"
+   
+    data_set = {"BMI": BMI, "message": bmi_text}
+    print(data_set)
+    return render_template('bmi.html', data=data_set)
 
 @app.route('/bmi2', methods=['POST'])
 def BMI2():
