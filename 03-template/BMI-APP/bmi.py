@@ -26,9 +26,11 @@ def BMI():
         bmi_text = "Underweight"
     elif BMI > 15:
         bmi_text = "Severely underweight"
-    else:
+    elif BMI < 15:
         bmi_text = "Very severely underweight"
-   
+    else:
+        bmi_text = ""
+
     data_set = {"BMI": BMI, "message": bmi_text}
     print(data_set)
     return render_template('bmi.html', data=data_set)

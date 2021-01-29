@@ -1,0 +1,61 @@
+[{
+    'source': {
+        'id': None,
+        'name': 'CNA'
+    },
+    'author': 'CNA',
+    'title': 'Malaysia reports 4094 new COVID-19 cases, 10 deaths as authorities ease some restrictions - CNA',
+    'description': 'KUALA LUMPUR: Malaysia reported 4,094 new COVID-19 cases and 10 deaths on Thursday (Jan 28), even as authorities moved to relax some movement control order (MCO) restrictions.',
+    'url': 'https://www.channelnewsasia.com/news/asia/covid-19-malaysia-4094-new-cases-10-deaths-mco-restrictions-14061630',
+    'urlToImage': 'https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14061628/16x9/991/557/1becfd53abb9c101bf5cfd5c98a97aad/dj/a-worker-rests-beside-a-coffin-of-a-victim-of-the-coronavirus-disease--covid-19--before-a-burial-at-a-cemetery--in-batu-caves-3.jpg',
+    'publishedAt': '2021-01-28T11:57:41Z',
+    'content': 'KUALA LUMPUR: Malaysia reported 4,094 new COVID-19 cases and 10 deaths on Thursday (Jan 28), even as authorities moved to relax some movement control order (MCO) restrictions.\xa0\xa0\r\nThe Klang Valley are… [+2093 chars]'
+}, {
+    'source': {
+        'id': 'the-irish-times',
+        'name': 'The Irish Times'
+    },
+    'author': 'Jennifer Bray',
+    'title': 'Ireland still ‘very vulnerable’ with ‘exceptionally’ high levels of Covid-19 in over-85s, Nphet warns - The Irish Times',
+    'description': 'Tony Holohan says there were 14 new nursing home outbreaks in one day',
+    'url': 'https://www.irishtimes.com/news/health/ireland-still-very-vulnerable-with-exceptionally-high-levels-of-covid-19-in-over-85s-nphet-1.4470080',
+    'urlToImage': 'https://www.irishtimes.com/image-creator/?id=1.4470079&origw=1440',
+    'publishedAt': '2021-01-28T11:54:00Z',
+    'content': 'Ireland is experiencing exceptionally elevated levels of Covid-19 amongst people aged over 85, the chief medical officer Tony Holohan has warned the Government.\r\nIn a letter to Minister for Health St… [+2967 chars]'
+}, {
+    'source': {
+        'id': None,
+        'name': 'TimesLIVE'
+    },
+    'author': 'Unathi Nkanjeni',
+    'title': "'I'll NEVER get tested again': SA reacts to Covid-19 anal swab testing in China - TimesLIVE",
+    'description': 'China has introduced anal swabs as a new method of Covid-19 test that could detect the virus more accurately.',
+    'url': 'https://www.timeslive.co.za/news/world/2021-01-28-ill-never-get-tested-again-sa-reacts-to-covid-19-anal-swab-testing-in-china/',
+    'urlToImage': 'https://lh3.googleusercontent.com/WdfrAdku85v9G470M-zXL_8UjoScM0A5-kJewTE2gd85G01JuNve89I835rUgYSyC7hMAXhTAH4nkIDAuLITMWur-5Nhy4mFBw=s1000',
+    'publishedAt': '2021-01-28T10:30:00Z',
+    'content': None
+}, {
+    'source': {
+        'id': 'news24',
+        'name': 'News24'
+    },
+    'author': None,
+    'title': "'Trust in govt further eroded during Covid-19 pandemic' - SA's poor ranking on corruption index - News24",
+    'description': 'Corruption has negatively impacted the ability of countries around the world, including South Africa, to manage the Covid-19 pandemic. South Africa is ranked 69th on a list of 180 countries on the Corruption Perception Index.',
+    'url': 'https://www.news24.com/news24/southafrica/news/trust-in-govt-further-eroded-during-covid-19-pandemic-sas-poor-ranking-on-corruption-index-20210128',
+    'urlToImage': 'https://cdn.24.co.za/files/Cms/General/d/9460/fd11b6e4f0034405803e4be616f84069.jpg',
+    'publishedAt': '2021-01-28T10:22:02Z',
+    'content': 'Corruption has negatively impacted the ability of countries around the world, including South Africa, to manage the Covid-19 pandemic.\r\nThat is according to Corruption Watch, in the wake of the relea… [+74 chars]'
+}, {
+    'source': {
+        'id': None,
+        'name': 'Daily Mail'
+    },
+    'author': 'Chris Pleasance, Wires',
+    'title': 'Covid-19 China: WHO experts in Wuhan begin probe on origins - Daily Mail',
+    'description': 'A 13-strong team of WHO medics ended a 14-day coronavirus quarantine at a hotel in the Chinese city of Wuhan today and set off in search for the origins of the virus, amid huge international pressure.',
+    'url': 'https://www.dailymail.co.uk/news/article-9196367/WHO-experts-finally-begin-investigation-origins-Covid-19.html',
+    'urlToImage': 'https://i.dailymail.co.uk/1s/2021/01/28/09/38582010-0-image-a-48_1611826101217.jpg',
+    'publishedAt': '2021-01-28T09:34:00Z',
+    'content': 'A team of doctors from the World Health Organisation today ended a 14-day Covid quarantine in the city of Wuhan and set off on a fact-finding mission to trace the origins of the virus.\r\nThe 13-strong… [+14389 chars]'
+}]
