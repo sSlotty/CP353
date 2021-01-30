@@ -30,7 +30,7 @@ def index():
     news = getCovidNews()
 
     weather = get_weather(city,WEATHER_KEY)
-    return render_template('index.html',weather=weather,news=news)
+    return render_template('index.html',weather=weather,news=news,title="Index")
 
 
 @app.route('/news')
@@ -41,13 +41,13 @@ def news():
         tag = 'tesla'
 
     news = searchNews(tag,NEWS_KEY)
-    return render_template('news.html', news=news)
+    return render_template('news.html', news=news,title="News")
 
 
 
 @app.route('/aboutme')
 def aboutme():
-    return render_template('aboutme.html')
+    return render_template('aboutme.html',title="About Me")
 
 def searchNews(tag,API_KEY):
     query = quote(tag)
