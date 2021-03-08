@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask
 from myapp.blueprints.main import main
 from myapp.blueprints.auth import auth
 from myapp.config import configurations
@@ -13,3 +13,4 @@ def create_app(environment_name='dev'):
 
 
     return app
+
